@@ -1,0 +1,20 @@
+package Database;
+
+
+
+/**
+ * Created by pavlo on 20/02/2018.
+ */
+
+public enum DatabaseRes {
+        DATABASE_CONNECTION_ERROR,
+
+        DATABASE_ACCOUNT_NOT_FOUND,
+        DATABASE_ACCOUNT_PASSOWRD_INCORECT,
+
+        DATABASE_ACCOUNT_ALREADY_EXISTS,
+        DATABASE_ACCOUNT_REGISTERED,
+        DATABASE_ACCOUNT_LOGIN_SUCCESSFUL
+
+
+}
